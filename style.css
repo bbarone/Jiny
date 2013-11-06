@@ -111,6 +111,15 @@ p {
 	color: white;
 }
 
+a {
+  text-decoration: none;
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 25px;
+  text-align: center;
+  color: #f152b7;
+}
+
 .button {
 	width: 300px;
 	height: 40px;
